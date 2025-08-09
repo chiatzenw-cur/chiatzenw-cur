@@ -1,7 +1,13 @@
 ## Hi there 👋
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chiatzenw@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiatzen-wang)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://chiatzenw.me)
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/></a>
+  <a href="https://linkedin.com/in/yourname"><img src="https://img.icons8.com/ios-glyphs/30/0A66C2/linkedin.png"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/ios-glyphs/30/1DA1F2/twitter.png"/></a>
+  <a href="https://yourwebsite.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/domain.png"/></a>
+</p>
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiatzenw-cur&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 <!--
 **chiatzenw-cur/chiatzenw-cur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
