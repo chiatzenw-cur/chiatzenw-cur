@@ -5,7 +5,7 @@
 <p align="left">
   <a href="mailto:chiatzenw@outlook.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/></a>
   <a href="https://linkedin.com/in/chiatzen-wang"><img src="https://img.icons8.com/ios-glyphs/30/0A66C2/linkedin.png"/></a>
-  <a href="https:/chiatzenw.me"><img src="https://img.icons8.com/ios-glyphs/30/000000/domain.png"/></a>
+  <a href="https://chiatzenw.me"><img src="https://img.icons8.com/ios-glyphs/30/000000/domain.png"/></a>
 </p>
 
 
