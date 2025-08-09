@@ -1,4 +1,7 @@
 ## Hi there 👋
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chiatzenw@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiatzen-wang)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://chiatzenw.me)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiatzenw-cur&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 <!--
 **chiatzenw-cur/chiatzenw-cur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
