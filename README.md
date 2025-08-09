@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/></a>
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.icons8.com/ios-glyphs/30/0A66C2/linkedin.png"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/ios-glyphs/30/1DA1F2/twitter.png"/></a>
-  <a href="https://yourwebsite.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/domain.png"/></a>
+<p align="right">
+  <a href="mailto:chiatzenw@outlook.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/></a>
+  <a href="https://linkedin.com/in/chiatzen-wang"><img src="https://img.icons8.com/ios-glyphs/30/0A66C2/linkedin.png"/></a>
+  <a href="https:/chiatzenw.me"><img src="https://img.icons8.com/ios-glyphs/30/000000/domain.png"/></a>
 </p>
 
 
